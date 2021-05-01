@@ -8,4 +8,4 @@
  </ul>
  
 <h2> Step by Step process to use system </h2>
- <img src="demo.jpg" />
+ <img src="LockedMeApp.jpg" />
